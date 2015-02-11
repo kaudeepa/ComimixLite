@@ -1,0 +1,275 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Comimix_IphoneAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 416}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 518}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Comimix_IphoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1066}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 731}";
+			sepNavWindowFrame = "{{48, 0}, {1232, 778}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Comimix-Iphone */ = {
+		activeExec = 0;
+		executables = (
+			FAE0C84712D7283F00AD5469 /* Comimix-Iphone */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Comimix_IphoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1196}}";
+			sepNavSelRange = "{1112, 0}";
+			sepNavVisRange = "{1818, 1128}";
+			sepNavWindowFrame = "{{48, 0}, {1232, 778}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Comimix_IphoneViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1526, 5925}\";\n            s = 0;\n        },\n                {\n            r = \"{7470, 1514}\";\n            s = 0;\n        },\n                {\n            r = \"{9005, 1546}\";\n            s = 0;\n        },\n                {\n            r = \"{10577, 2958}\";\n            s = 0;\n        },\n                {\n            r = \"{13556, 471}\";\n            s = 0;\n        },\n                {\n            r = \"{14047, 526}\";\n            s = 0;\n        },\n                {\n            r = \"{14599, 4617}\";\n            s = 0;\n        },\n                {\n            r = \"{19273, 3066}\";\n            s = 0;\n        },\n                {\n            r = \"{22409, 54}\";\n            s = 0;\n        },\n                {\n            r = \"{22508, 455}\";\n            s = 0;\n        },\n                {\n            r = \"{23008, 21}\";\n            s = 0;\n        },\n                {\n            r = \"{23088, 85}\";\n            s = 0;\n        },\n                {\n            r = \"{23234, 52}\";\n            s = 0;\n        },\n                {\n            r = \"{23313, 349}\";\n            s = 0;\n        },\n                {\n            r = \"{23720, 488}\";\n            s = 0;\n        },\n                {\n            r = \"{24230, 518}\";\n            s = 0;\n        },\n                {\n            r = \"{24810, 316}\";\n            s = 0;\n        },\n                {\n            r = \"{25189, 336}\";\n            s = 0;\n        },\n                {\n            r = \"{25592, 201}\";\n            s = 0;\n        },\n                {\n            r = \"{25856, 346}\";\n            s = 0;\n        },\n                {\n            r = \"{26309, 545}\";\n            s = 0;\n        },\n                {\n            r = \"{26913, 41}\";\n            s = 0;\n        },\n                {\n            r = \"{26984, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{27053, 61}\";\n            s = 0;\n        },\n                {\n            r = \"{27168, 40}\";\n            s = 0;\n        },\n                {\n            r = \"{27289, 80}\";\n            s = 0;\n        },\n                {\n            r = \"{27450, 172}\";\n            s = 0;\n        },\n                {\n            r = \"{27676, 366}\";\n            s = 0;\n        },\n                {\n            r = \"{28121, 424}\";\n            s = 0;\n        },\n                {\n            r = \"{28584, 850}\";\n            s = 0;\n        },\n                {\n            r = \"{29466, 1776}\";\n            s = 0;\n        },\n                {\n            r = \"{31386, 540}\";\n            s = 0;\n        },\n                {\n            r = \"{31959, 404}\";\n            s = 0;\n        },\n                {\n            r = \"{32387, 636}\";\n            s = 0;\n        },\n                {\n            r = \"{33120, 346}\";\n            s = 0;\n        },\n                {\n            r = \"{33548, 145}\";\n            s = 0;\n        },\n                {\n            r = \"{33779, 527}\";\n            s = 0;\n        },\n                {\n            r = \"{34374, 581}\";\n            s = 0;\n        },\n                {\n            r = \"{34997, 81}\";\n            s = 0;\n        },\n                {\n            r = \"{35212, 45}\";\n            s = 0;\n        },\n                {\n            r = \"{35287, 2577}\";\n            s = 0;\n        },\n                {\n            r = \"{37918, 1717}\";\n            s = 0;\n        },\n                {\n            r = \"{39689, 45}\";\n            s = 0;\n        },\n                {\n            r = \"{39824, 45}\";\n            s = 0;\n        },\n                {\n            r = \"{39968, 266}\";\n            s = 0;\n        },\n                {\n            r = \"{40294, 117}\";\n            s = 0;\n        },\n                {\n            r = \"{40447, 156}\";\n            s = 0;\n        },\n                {\n            r = \"{40698, 813}\";\n            s = 0;\n        },\n                {\n            r = \"{41536, 321}\";\n            s = 0;\n        },\n                {\n            r = \"{41876, 1179}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 43063}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {586, 1859}}";
+			sepNavSelRange = "{532, 0}";
+			sepNavVisRange = "{426, 1009}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv6;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FAE0C84712D7283F00AD5469 /* Comimix-Iphone */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Comimix-Iphone */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Comimix-Iphone */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FAE0C86212D7285400AD5469 /* Code sense */;
+		executables = (
+			FAE0C84712D7283F00AD5469 /* Comimix-Iphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					279,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Built_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					556,
+					20,
+					48,
+					43,
+					43,
+					20,
+					20,
+					30,
+					10,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_Path_ColumnID,
+					PBXFileDataSource_Comments_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					351,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317315382;
+			PBXWorkspaceStateSaveDate = 317315382;
+		};
+		perUserProjectItems = {
+			FA77252612E9D9190060F89F /* PBXTextBookmark */ = FA77252612E9D9190060F89F /* PBXTextBookmark */;
+			FA77252812E9D9190060F89F /* PBXTextBookmark */ = FA77252812E9D9190060F89F /* PBXTextBookmark */;
+			FAE0C8D412D7319500AD5469 /* PlistBookmark */ = FAE0C8D412D7319500AD5469 /* PlistBookmark */;
+			FAE0C8D612D7319500AD5469 /* PBXBookmark */ = FAE0C8D612D7319500AD5469 /* PBXBookmark */;
+			FAE0C8D712D7319500AD5469 /* PBXBookmark */ = FAE0C8D712D7319500AD5469 /* PBXBookmark */;
+			FAE0C8D812D7319500AD5469 /* PlistBookmark */ = FAE0C8D812D7319500AD5469 /* PlistBookmark */;
+			FAE0C8D912D7319500AD5469 /* PBXBookmark */ = FAE0C8D912D7319500AD5469 /* PBXBookmark */;
+			FAE0C92E12D73D8C00AD5469 /* PBXTextBookmark */ = FAE0C92E12D73D8C00AD5469 /* PBXTextBookmark */;
+			FAE0C92F12D73D8C00AD5469 /* PBXTextBookmark */ = FAE0C92F12D73D8C00AD5469 /* PBXTextBookmark */;
+			FAF9BE1812E9DB9C00DFF390 /* PBXTextBookmark */ = FAF9BE1812E9DB9C00DFF390 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FAE0C86112D7285400AD5469 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* Comimix_Iphone-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{48, 0}, {1232, 778}}";
+		};
+	};
+	FA77252612E9D9190060F89F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Comimix_IphoneViewController.h */;
+		name = "Comimix_IphoneViewController.h: 47";
+		rLen = 0;
+		rLoc = 1112;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 1818;
+	};
+	FA77252812E9D9190060F89F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Comimix_IphoneViewController.m */;
+		name = "Comimix_IphoneViewController.m: 1182";
+		rLen = 0;
+		rLoc = 41512;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 39479;
+	};
+	FAE0C84712D7283F00AD5469 /* Comimix-Iphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Comimix-Iphone";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FAE0C86112D7285400AD5469 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FAE0C86212D7285400AD5469 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FAE0C8D412D7319500AD5469 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Comimix_Iphone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UISupportedInterfaceOrientations,
+		);
+		name = "/Users/macbook/Documents/Comimix-Iphone/Comimix_Iphone-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FAE0C8D612D7319500AD5469 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FAE0C87112D72A9D00AD5469 /* No_Internet.png */;
+	};
+	FAE0C8D712D7319500AD5469 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FAE0C87012D72A9D00AD5469 /* Mail-forward.png */;
+	};
+	FAE0C8D812D7319500AD5469 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FAE0C86F12D72A9D00AD5469 /* tableData.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/macbook/Documents/Comimix-Iphone/tableData.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FAE0C8D912D7319500AD5469 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FAE0C86D12D72A9D00AD5469 /* Comimix.png */;
+	};
+	FAE0C92E12D73D8C00AD5469 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Comimix_IphoneAppDelegate.h */;
+		name = "Comimix_IphoneAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 0;
+	};
+	FAE0C92F12D73D8C00AD5469 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Comimix_IphoneAppDelegate.m */;
+		name = "Comimix_IphoneAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 0;
+	};
+	FAF9BE1812E9DB9C00DFF390 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Comimix_IphoneViewController.m */;
+		name = "Comimix_IphoneViewController.m: 24";
+		rLen = 0;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 1009;
+		vrLoc = 426;
+	};
+}

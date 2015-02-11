@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Comimix-Iphone */ = {
+		activeExec = 0;
+		executables = (
+			739AA6BC12E67AD3003EBDBC /* Comimix-Iphone */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 739AA6BC12E67AD3003EBDBC /* Comimix-Iphone */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Comimix-Iphone */;
+		codeSenseManager = 739AA6DB12E67AEF003EBDBC /* Code sense */;
+		executables = (
+			739AA6BC12E67AD3003EBDBC /* Comimix-Iphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317104928;
+			PBXWorkspaceStateSaveDate = 317104928;
+		};
+		perUserProjectItems = {
+			7382915512E6A30A00FCA669 /* PlistBookmark */ = 7382915512E6A30A00FCA669 /* PlistBookmark */;
+			7382918E12E6A52100FCA669 /* PlistBookmark */ = 7382918E12E6A52100FCA669 /* PlistBookmark */;
+		};
+		sourceControlManager = 739AA6DA12E67AEF003EBDBC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7382915512E6A30A00FCA669 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Comimix_Iphone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/nisheeth/Downloads/Comimix-Iphone Icons Rearranged NEW/Comimix_Iphone-Info.plist";
+		rLen = 3;
+		rLoc = 0;
+	};
+	7382918E12E6A52100FCA669 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Comimix_Iphone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/nisheeth/Downloads/Comimix-Iphone Icons Rearranged/Comimix_Iphone-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	739AA6BC12E67AD3003EBDBC /* Comimix-Iphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Comimix-Iphone";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	739AA6DA12E67AEF003EBDBC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	739AA6DB12E67AEF003EBDBC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107310486CEB800E47090 /* Comimix_Iphone-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{50, 120}, {1129, 653}}";
+		};
+	};
+}

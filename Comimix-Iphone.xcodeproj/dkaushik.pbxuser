@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Comimix-Iphone */ = {
+		activeExec = 0;
+		executables = (
+			356064A212DAC25400CE5A9A /* Comimix-Iphone */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Comimix_IphoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1196}}";
+			sepNavSelRange = "{2591, 0}";
+			sepNavVisRange = "{872, 1054}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Comimix_IphoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1160, 16107}}";
+			sepNavSelRange = "{35984, 0}";
+			sepNavVisRange = "{35166, 1731}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 356064A212DAC25400CE5A9A /* Comimix-Iphone */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Comimix-Iphone */;
+		codeSenseManager = 356064AD12DAC27200CE5A9A /* Code sense */;
+		executables = (
+			356064A212DAC25400CE5A9A /* Comimix-Iphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					721,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317500975;
+			PBXWorkspaceStateSaveDate = 317500975;
+		};
+		perUserProjectItems = {
+			359023D212ECAD7E00A2AB13 /* PBXTextBookmark */ = 359023D212ECAD7E00A2AB13 /* PBXTextBookmark */;
+			359023D912ECAE6400A2AB13 /* PBXTextBookmark */ = 359023D912ECAE6400A2AB13 /* PBXTextBookmark */;
+			35A434DD12EBFDE30057A588 /* PlistBookmark */ = 35A434DD12EBFDE30057A588 /* PlistBookmark */;
+			35A434DE12EBFDE30057A588 /* PBXTextBookmark */ = 35A434DE12EBFDE30057A588 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 356064AC12DAC27200CE5A9A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	356064A212DAC25400CE5A9A /* Comimix-Iphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Comimix-Iphone";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	356064AC12DAC27200CE5A9A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	356064AD12DAC27200CE5A9A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	359023D212ECAD7E00A2AB13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Comimix_IphoneViewController.m */;
+		name = "Comimix_IphoneViewController.m: 1067";
+		rLen = 0;
+		rLoc = 35984;
+		rType = 0;
+		vrLen = 1731;
+		vrLoc = 35166;
+	};
+	359023D912ECAE6400A2AB13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Comimix_IphoneViewController.m */;
+		name = "Comimix_IphoneViewController.m: 1067";
+		rLen = 0;
+		rLoc = 35984;
+		rType = 0;
+		vrLen = 1731;
+		vrLoc = 35166;
+	};
+	35A434DD12EBFDE30057A588 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Comimix_Iphone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleSignature,
+		);
+		name = "/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged 2/Comimix_Iphone-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	35A434DE12EBFDE30057A588 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Comimix_IphoneViewController.h */;
+		name = "Comimix_IphoneViewController.h: 77";
+		rLen = 0;
+		rLoc = 2591;
+		rType = 0;
+		vrLen = 1054;
+		vrLoc = 872;
+	};
+}

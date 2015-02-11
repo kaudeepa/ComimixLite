@@ -1,0 +1,189 @@
+TComimix-Iphone
+v7
+r0
+t316326521.104012
+cCheck dependencies
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/Comimix.png
+c000000004CFF81F300000000000017E1
+t1291813363
+s6113
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/Comimix_IphoneViewController.xib
+c000000004D29CE430000000000008ECF
+t1294585411
+s36559
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/Default-Landscape.png
+c000000004CFA917E00000000000031D4
+t1291489662
+s12756
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/FBConnect.bundle
+c000000004B510E4F0000000000000066
+t1263603279
+s102
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/Loading.png
+c000000004D086243000000000000139D
+t1292395075
+s5021
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/Mail-forward.png
+c000000004D29CCF70000000000001484
+t1294585079
+s5252
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/MainWindow.xib
+c000000004D26F0BF0000000000004E7D
+t1294397631
+s20093
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/No_Internet.png
+c000000004D1CC1F8000000000000260E
+t1293730296
+s9742
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Info.plist
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/Comimix.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/Comimix_IphoneViewController.nib
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/Default-Landscape.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/FBConnect.bundle
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/Loading.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/Mail-forward.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/No_Internet.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/email.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/face.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/logo.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/save1.png
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/tableData.plist
+t2
+s0
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/email.png
+c000000004CD5B9820000000000000E2B
+t1289075074
+s3627
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/face.png
+c000000004D29CD3D0000000000000BAE
+t1294585149
+s2990
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/logo.png
+c000000004CFA94C70000000000000510
+t1291490503
+s1296
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/save1.png
+c000000004D0E27E00000000000000D84
+t1292773344
+s3460
+
+N/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/tableData.plist
+c000000004CD5A5A30000000000001562
+t1289069987
+s5474
+
+NComimix_Iphone-Info.plist
+c000000004D2A8AF3000000000000053B
+t1294633715
+s1339
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316326521#316326521#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.1'0(0#1#0"8618040320#0"0#
+
+CCompileXIB "/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/Comimix_IphoneViewController.xib"
+r0
+
+CCompileXIB "/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/MainWindow.xib"
+r0
+
+CCopyPlistFile "/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Resources/tableData.plist" tableData.plist
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/Comimix.png Comimix.png
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/Default-Landscape.png Default-Landscape.png
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/FBConnect.bundle FBConnect.bundle
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/Loading.png Loading.png
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/Mail-forward.png Mail-forward.png
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/No_Internet.png No_Internet.png
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/email.png email.png
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/face.png face.png
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/logo.png logo.png
+r0
+
+CCpResource build/Debug/Comimix-Iphone.app/Contents/Resources/save1.png save1.png
+r0
+
+CProcessInfoPlistFile "/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app/Contents/Info.plist" Comimix_Iphone-Info.plist
+r0
+
+CTouch "/Users/dkaushik/Desktop/Comimix-Iphone Icons Rearranged/build/Debug/Comimix-Iphone.app"
+r0
+
